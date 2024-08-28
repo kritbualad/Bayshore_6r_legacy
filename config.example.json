@@ -6,6 +6,7 @@
     "country": "JPN",
     "regionName": "JPN0123",
     "serverIp": "127.0.0.1",
+    "notices": ["Welcome to Bayshore WMMT6R"],
     "gameOptions": {
         "grantFullTuneTicketToNewUsers": 5, 
         "giftCarsFullyTuned": 0, 
