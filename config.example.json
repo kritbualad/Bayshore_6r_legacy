@@ -10,7 +10,7 @@
     "gameOptions": {
         "grantFullTuneTicketToNewUsers": 5, 
         "giftCarsFullyTuned": 0, 
-        "scratchEnabled": 1, 
+        "scratchEnabled": 2, 
         "scratchType": 0, 
         "giveMeterReward": 0,
         "newCardsBanned": 0
